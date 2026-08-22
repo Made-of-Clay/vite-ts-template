@@ -1,12 +1,6 @@
-# Three.js Vite Template with TypeScript
+# Vite Template with TypeScript
 
-Three.js + Vite + TypeScript starter
-
----
-
-![screenshot](docs/preview.png)
-
----
+Vite + TypeScript starter
 
 ## ⚡ Quick Cloning Command
 
@@ -22,10 +16,8 @@ pnpm dev
 
 ## Tech Stack
 
-- Three.js
 - TypeScript
 - Vite
-
 
 ## CLI Commands
 
